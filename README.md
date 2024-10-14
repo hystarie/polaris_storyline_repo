@@ -56,3 +56,7 @@ By combining language learning with creative storytelling, the **Story Generator
 ## Subheader
 
 It is a trialer.
+
+# Local Development
+
+Open index.html in your browser.
